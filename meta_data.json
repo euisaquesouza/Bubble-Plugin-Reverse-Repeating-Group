@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "containers",
+        "2": "technical",
+        "3": "productivity",
+        "4": "small business"
+    },
+    "demo_page": "https://bubble.io/page?type=page&name=index_old&id=reverse-repeating-group&tab=tabs-1",
+    "description": "You can use this plugin to reverse your repeating group. This is great for messaging applications for example! The plugin fixes the scrolling issue the other plugins have and this plugin does not use dependencies so it does not clash with other plugins on the page. \n\n✅ Supports the latest version of Bubble\n\n❇️ Demo page (editor is public): https://reverse-repeating-group.bubbleapps.io/version-test\n\n📹 Video Tutorial by Planet No Code on how to build an AI chatbot with this plugin: https://lttr.ai/AH1ZB\n\nYou can find the instructions below!",
+    "image": "//meta-l.cdn.bubble.io/f1691685214989x104594679174560450/sort-1_icon-icons.com_69454.png",
+    "license": "open_source",
+    "link": "https://bubble.io/page?type=page&name=index_old&id=reverse-repeating-group&tab=tabs-1",
+    "name": "🔄 Reverse Repeating Group",
+    "plugin_instructions": "If you need an example, take a look at the demo page!\n\n1 - Place the '🔄 Reverse RG' element on the page\n\n2 - Inside the plugin properties you see that you need to put in the ID attributes of the Repeating Group(s) your want to reverse and the ID attributes of the group(s) with the repeating group.\n\nGive your Bubble Repeating Group an ID attribute. Also do this for the group(s) within the Repeating Group.\n\nIf you don't see this the ID attribute option at the bottom of your input element properties, make sure you've enabled the HTML ID setting. You can do this under:\n\na. Settings\nb. General\nc. Scroll all the way down to 'Advanced Options'\nd. Check the box for → 'Expose the option to add an ID attribute to HTML elements'\n\n3 - Add the ID attributes in the correct fields inside the plugin properties for '🔄 Reverse RG'.\n\nIf you have followed all the steps correctly, Your Repeating group will now be reversed!"
+}

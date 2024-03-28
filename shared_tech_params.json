@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAI": {
+            "name": "logo",
+            "url": "//meta-l.cdn.bubble.io/f1691768722262x440996849415643300/1584162-200kopie.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

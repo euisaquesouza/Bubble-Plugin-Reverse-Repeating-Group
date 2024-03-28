@@ -1,0 +1,53 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "🔄 Reverse RG",
+    "fields": {
+        "AAE": {
+            "caption": "RepeatingGroups ID",
+            "default_val": "my-rg-1, my-rg-2",
+            "doc": "The ID attributes of the repeating group(s) you would like to reverse",
+            "editor": "DynamicValue",
+            "name": "rgs",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Group Cells ID",
+            "default_val": "cell-1, cell-2",
+            "doc": "Make sure to give the group(s) in your repeating group an ID attribute and paste that ID here",
+            "editor": "DynamicValue",
+            "name": "cells",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAJ": {
+            "caption": "Scroll Speed factor",
+            "default_val": 0.5,
+            "doc": "A smaller value to slow down the scrolling",
+            "editor": "DynamicValue",
+            "name": "scroll_speed_factor",
+            "rank": 2,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-refresh",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAD": {
+            "caption": "error",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "error",
+            "value": "text"
+        }
+    }
+}
