@@ -1,8 +1,6 @@
 function(instance, context) {
     instance.data.scrolling = false
 
-    // this is a test
-
     instance.data.run = function (rgs, cells, scrollSpeedFactor) {
         function makeid(length) {
             let result = '';
