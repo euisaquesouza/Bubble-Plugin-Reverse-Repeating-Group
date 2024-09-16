@@ -6,6 +6,7 @@
         "3": "productivity",
         "4": "small business"
     },
+    "data_tracked": false,
     "demo_page": "https://bubble.io/page?type=page&name=index_old&id=reverse-repeating-group&tab=tabs-1",
     "description": "You can use this plugin to reverse your repeating group. This is great for messaging applications for example! The plugin fixes the scrolling issue the other plugins have and this plugin does not use dependencies so it does not clash with other plugins on the page. \n\n✅ Supports the latest version of Bubble\n\n❇️ Demo page (editor is public): https://reverse-repeating-group.bubbleapps.io/version-test\n\n📹 Video Tutorial by Planet No Code on how to build an AI chatbot with this plugin: https://lttr.ai/AH1ZB\n\nYou can find the instructions below!",
     "image": "//meta-l.cdn.bubble.io/f1691685214989x104594679174560450/sort-1_icon-icons.com_69454.png",

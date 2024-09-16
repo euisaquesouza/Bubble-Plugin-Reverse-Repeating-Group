@@ -2,8 +2,8 @@
     "add_is_visible": true,
     "category": "visual elements",
     "default_dim": {
-        "height": 200,
-        "width": 400
+        "height": 30,
+        "width": 30
     },
     "display": "🔄 Reverse RG",
     "fields": {
@@ -13,7 +13,7 @@
             "doc": "The ID attributes of the repeating group(s) you would like to reverse",
             "editor": "DynamicValue",
             "name": "rgs",
-            "rank": 0,
+            "rank": 1,
             "value": "text"
         },
         "AAF": {
@@ -22,7 +22,7 @@
             "doc": "Make sure to give the group(s) in your repeating group an ID attribute and paste that ID here",
             "editor": "DynamicValue",
             "name": "cells",
-            "rank": 1,
+            "rank": 2,
             "value": "text"
         },
         "AAJ": {
@@ -31,8 +31,14 @@
             "doc": "A smaller value to slow down the scrolling",
             "editor": "DynamicValue",
             "name": "scroll_speed_factor",
-            "rank": 2,
+            "rank": 3,
             "value": "number"
+        },
+        "AAK": {
+            "caption": "ℹ️ Make sure this element is visible on the page at all times.",
+            "editor": "Label",
+            "name": "info",
+            "rank": 0
         }
     },
     "icon": "ion-android-refresh",
